@@ -10,7 +10,7 @@ public class ClassA {
 	static List<String> aList = new ArrayList<>();
 	
 	public static  void init1() {
-		aList = Arrays.asList("one","two","three");
+		aList = Arrays.asList("one","two","three","four");
 	}
 
 	public static void main(String[] args) {
